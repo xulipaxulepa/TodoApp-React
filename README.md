@@ -1,3 +1,4 @@
+Sistema de Lista de tarefas com backend integrado ao MongoDb e frontend em React
 
 ## Available Scripts
 
