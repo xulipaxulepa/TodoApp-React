@@ -1,0 +1,33 @@
+.btn {
+    margin-right: 5px;
+}
+
+.markedAsDone {
+    text-decoration: line-through;
+    color: #777;
+}
+
+.tableAction {
+    width: 105px;
+}
+
+.todoForm {
+    padding-bottom: 60px;
+}
+
+body {
+    background: rgb(4,172,162);
+    background: linear-gradient(90deg, rgba(4,172,162,1) 50%, rgba(0,255,111,1) 100%);
+}
+
+table {
+    color: white;
+}
+
+.page-header {
+    color: white;
+}
+
+.about {
+    color: white;
+}
